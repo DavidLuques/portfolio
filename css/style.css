@@ -1,0 +1,40 @@
+#contacto {background-image: url("../images/fondo-contacto.png");
+background-repeat: no-repeat;
+background-size: 100%;}
+#navegacion ul {list-style: none;}
+#navegacion ul li {display:inline-block;}
+#navegacion ul li a{color:black;}
+
+/*  Seccion Footer  */
+footer i{
+    font-size: 35px;
+    border: 1px solid;
+    height: 48px;
+    width: 58px;
+    text-align: center;
+    padding: 10px 0 0 0;
+    border-radius: 80px;
+    margin: 0 15px;
+    color: red;
+}
+.mx-auto{
+    margin: auto;
+    max-width: max-content;
+}
+::placeholder {
+  color: blue;
+  font-size: 16px;
+}
+#formulario form {padding: 7px;}
+h1{color:red}
+.fa-github {
+  font-size: 30px;
+  color: #ffffff;
+}
+
+.fa-linkedin-in {
+  font-size: 30px;
+  color: #ffffff;
+}
+#enviar form{text-align: right;}
+ 
