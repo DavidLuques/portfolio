@@ -5,6 +5,7 @@ background-size: 100%;}
 #navegacion ul li {display:inline-block;}
 #navegacion ul li a{color:black;}
 
+
 /*  Seccion Footer  */
 footer i{
     font-size: 35px;
@@ -29,12 +30,20 @@ footer i{
 h1{color:red}
 .fa-github {
   font-size: 30px;
-  color: #ffffff;
+  color: #f80606;
 }
 
 .fa-linkedin-in {
   font-size: 30px;
-  color: #ffffff;
+  color: #f50909;
 }
 #enviar form{text-align: right;}
- 
+
+.btn-rojo{
+  background-color: #E20000;
+  color: white;
+  font-size: 15px;
+  border-radius: 20px;
+  padding: 5px 20px;
+  font-weight: 100;
+}
