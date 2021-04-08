@@ -32,13 +32,12 @@
         <div class="row">
             <div class="col-sm-5 col-12 mt-4">
                 <h1 class="mt-sm-4 pb-sm-4">Sobre mí</h1>
-                <p class="pb-sm-5">Apasionado por la tecnología y gestión de proyectos. Soy docente de cursos de
-                    programación Full Stack y de Base de datos.</p>
+                <p class="pb-sm-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam vero eos praesentium consequatur quod magni, eaque asperiores ipsa autem quia quis velit esse, reprehenderit, nesciunt exercitationem corporis sunt aspernatur consectetur?</p>
                 <a href="/contacto.php" class="btn btn-rojo">Enviar mensaje</a>
 
             </div>
             <div class="col-sm-3 col-12 mt-4 offset-sm-2">
-                <img src="/images/nelson-daniel-tarche.jpg" alt="Nelson Daniel Tarche" title="Nelson Daniel Tarche"
+                <img src="images/yo.jpg" alt="David luques" title="David luques"
                     class="img-fluid img-circle">
             </div>
         </div>
@@ -126,9 +125,9 @@
                 <div class="col-sm-2 col-6 text-center">
                     <div class="px-4 py-5 card mx-0">
                         <h3>Apache</h3>
-                        <img class="img-fluid d-block mx-auto" width="110"
+                        <img class="img-fluid d-block mx-auto" width="160"
                             src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_HTTP_server_logo_%282016%29.svg/300px-Apache_HTTP_server_logo_%282016%29.svg.png">
-                    </div>
+                            </div>
                 </div>
                 <div class="col-sm-2 col-6 text-center">
                     <div class="px-4 py-5 card mx-0">
@@ -192,15 +191,9 @@
                         <h3>Director</h3>
                         <h4>DEPCSUITE SA</h4>
                         <h5>2016 - presente</h5>
-                        <p>Lidero el desarrollo y posicionamiento de la empresa en sus tres líneas de negocio: cloud
-                            services, desarrollo de sistemas y educación IT en Buenos Aires, con sedes en Puerto Madero
-                            y
-                            Belgrano. Celebración de convenios estratégicos. Desarrollo de nuevos productos.
-                            Coordinación
-                            del área de sistemas y educación. Docente de cursos tecnológicos en: Laravel, PHP, HTML,
-                            CSS,
-                            Javascript, jQuery, AJAX, React.js, Bootstrap, GitLab, HTTP Apache2, SSL, MySQL, HAProxy,
-                            ProFTPd, virtualización con VMware ESXi, GNU/Linux Debian.</p>
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repudiandae minus vitae ipsa exercitationem a nemo dicta ullam officiis praesentium pariatur, provident itaque et sed temporibus repellendus odio facere, neque necessitatibus.
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa optio aliquam illo delectus quaerat quisquam culpa, atque, suscipit blanditiis adipisci unde exercitationem! Reiciendis id provident inventore! Ipsa, sit? Porro, assumenda.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -213,13 +206,9 @@
                         <h3>Desarrollador Senior Full Stack</h3>
                         <h4>Universidad de Buenos Aires</h4>
                         <h5>ago 2015 - ene 2020</h5>
-                        <p>Planeamiento del proyecto, seguimiento, reuniones de avance, estimación de entregables. Trato
-                            con clientes y equipos
-                            internos. Desarrollo de nuevos sistemas. Capacitar y organizar el área de desarrollo.
-                            Gestionar los ambientes de
-                            desarrollo. Administrar repositorio. Asignar tareas al equipo.
-                            Tecnologías: Laravel, PHP, HTML, CSS, Javascript, jQuery, AJAX, SQL Server, IIS, Bootstrap,
-                            Microsoft Project, GitLab.</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda placeat similique aut quis beatae eum? Vitae, alias fugit saepe porro unde sit molestiae rem est architecto molestias necessitatibus non sunt.
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus voluptatibus magnam recusandae voluptatem quasi, eligendi consequuntur, ut saepe, repudiandae commodi numquam necessitatibus a perspiciatis ipsa iusto nam velit atque assumenda.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -232,14 +221,9 @@
                         <h3>Desarrollador Senior Full Stack</h3>
                         <h4>ENACOM</h4>
                         <h5>jul 2012 - jun 2018</h5>
-                        <p>Diseño y desarrollo de sistemas internos para el organismo. Mantenimiento de los sistemas
-                            existentes. Gestión de base de
-                            datos y reportes. Trato con distintos clientes internos y equipos. Reuniones de avance.
-                            Organización del proyecto en
-                            Redmine. Resolución de pedidos mediante sistema de incidencias GLPI.
-                            Tecnologías: PHP, HTML, CSS, jQuery, Debian, AJAX, Javascript, jQuery, MySQL, PHP, Python,
-                            Mongo DB, PostgreSQL, firma
-                            electrónica, servicios REST, interfaz con SAP, XAMPP.</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis repellendus ab quia saepe alias non voluptatem, explicabo officia sequi excepturi beatae nostrum magni, sint enim nihil possimus earum aliquid reprehenderit!
+                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic consequuntur quidem a reiciendis sunt ullam explicabo, numquam reprehenderit laudantium, libero accusantium blanditiis ex rem voluptates corporis quod? Fuga, quibusdam repellat!
+                        </p>
                     </div>
                 </div>
             </div>
@@ -252,8 +236,9 @@
                         <h3>Consultor Desarrollador Freelance</h3>
                         <h4>Certificado Digital SA</h4>
                         <h5>ago 2014 - dic 2016</h5>
-                        <p>Proyecto de desarrollo de sistemas web para los clientes de la consultora.
-                            Tecnologías: PHP, CSS, HTML, jQuery, Javascript, MySQL, WSDL.</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi vel ea consequatur veritatis necessitatibus odit fugit reprehenderit illum suscipit dolores. Modi voluptatem, dolores laudantium suscipit placeat iste perferendis at consequuntur?
+
+                        </p>
                     </div>
                 </div>
             </div>
@@ -266,11 +251,7 @@
                         <h3>Desarrollador Back-end y Front-end</h3>
                         <h4>Agencia Golshy</h4>
                         <h5>jul 2011 - dic 2016</h5>
-                        <p>Desarrollo, implementación y mantenimiento de sistemas y páginas Web. Relevamiento de
-                            requisitos. Trato con el cliente.
-                            Desarrollo del Brief de marca y del sitio web. Participación en eventos de networking.
-                            Tecnologías: HTML, CSS, Javasacript, jQuery, MySQL, AJAX, API, Facebook, API Twitter, y API
-                            Youtube, Drupal, Wordpress.</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam fuga est, consectetur eveniet ex ea aliquid autem, rerum dicta praesentium beatae amet ipsum, libero explicabo quidem excepturi? Dolor, officia soluta..</p>
                     </div>
                 </div>
             </div>
@@ -283,8 +264,7 @@
                         <h3>Desarrollador Back-end y Front-end</h3>
                         <h4>Globons SRL</h4>
                         <h5>abr 2010 - ene 2011</h5>
-                        <p>Desarrollo de sistemas web para los distintos proyectos de la empresa.
-                            Tecnologías: ASP.NET, C#, jQuery, AJAX, SQLServer, HTML, CSS.</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis nihil sed harum, libero beatae repellat culpa sit deleniti modi ipsum necessitatibus aliquam tempora non nulla cumque sapiente assumenda numquam ipsa.</p>
                     </div>
                 </div>
             </div>
@@ -306,15 +286,7 @@
                         <h3>Director</h3>
                         <h4>DEPCSUITE SA</h4>
                         <h5>2016 - presente</h5>
-                        <p>Lidero el desarrollo y posicionamiento de la empresa en sus tres líneas de negocio: cloud
-                            services, desarrollo de sistemas y educación IT en Buenos Aires, con sedes en Puerto Madero
-                            y
-                            Belgrano. Celebración de convenios estratégicos. Desarrollo de nuevos productos.
-                            Coordinación
-                            del área de sistemas y educación. Docente de cursos tecnológicos en: Laravel, PHP, HTML,
-                            CSS,
-                            Javascript, jQuery, AJAX, React.js, Bootstrap, GitLab, HTTP Apache2, SSL, MySQL, HAProxy,
-                            ProFTPd, virtualización con VMware ESXi, GNU/Linux Debian.</p>
+                        <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium animi maxime quisquam minima illo sint accusamus, pariatur alias nam est, at voluptate hic omnis molestias, repellendus quam possimus necessitatibus harum. ipsum dolor sit amet consectetur adipisicing elit. Maiores aliquid nostrum sapiente accusamus vero quaerat cumque sint recusandae veniam nam quasi beatae aperiam quod culpa, praesentium velit laboriosam alias hic.</p>
                     </div>
                 </div>
             </div>
@@ -336,15 +308,9 @@
                         <h3>Director</h3>
                         <h4>DEPCSUITE SA</h4>
                         <h5>2016 - presente</h5>
-                        <p>Lidero el desarrollo y posicionamiento de la empresa en sus tres líneas de negocio: cloud
-                            services, desarrollo de sistemas y educación IT en Buenos Aires, con sedes en Puerto Madero
-                            y
-                            Belgrano. Celebración de convenios estratégicos. Desarrollo de nuevos productos.
-                            Coordinación
-                            del área de sistemas y educación. Docente de cursos tecnológicos en: Laravel, PHP, HTML,
-                            CSS,
-                            Javascript, jQuery, AJAX, React.js, Bootstrap, GitLab, HTTP Apache2, SSL, MySQL, HAProxy,
-                            ProFTPd, virtualización con VMware ESXi, GNU/Linux Debian.</p>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vitae, ad deserunt! Commodi autem atque in ab enim odit consequuntur, necessitatibus exercitationem quos. Harum et repudiandae molestiae quos voluptate, suscipit tempora.
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore quis beatae error. Error omnis, eius voluptatem pariatur nam perferendis at doloribus dicta enim nesciunt repellat, deleniti ratione, autem obcaecati maxime.
+                        </p>
                     </div>
                 </div>
             </div>

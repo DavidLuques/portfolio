@@ -204,3 +204,37 @@
         color: #6A6A6A;
         font-size: 14px;
     }
+    #proyectos .link-rojo{
+        text-decoration: none;
+        color: tomato;
+    }
+    #proyectos  footer, footer a{
+        color:white;
+        padding: 30px;
+        text-decoration: none;
+      }
+      body{
+        font-family: 'Montserrat', sans-serif;
+    }
+    h1{
+        color: #E20000;
+    }
+    p{
+        color: #6A6A6A;
+        font-size: 14px;
+    }
+    h2{
+        font-size: 24px;
+    }
+    h3{
+        font-size: 14px; 
+        color:#282828;
+        font-weight: 300;
+    }
+    #sobre-mi .img-circle {
+        display: block;
+        background-color: #fff;
+        padding: 10px;
+        border-radius: 100%;
+    }
+  

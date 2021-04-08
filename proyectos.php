@@ -47,7 +47,7 @@
             				<h2>ABM Clientes</h2>
             			</div>
             			<div class="col-12 py-3">
-            			<p>Alta, baja y modificación de un registro de clientes. Realizado en HTML, CSS, PHP, Bootstrap y Json.</p>
+            			<p>Alta, baja y modificación de un registro de clientes. Realizado en HTML, CSS, PHP, Bootstrap y Json.</p><br><br>
             			</div>
             			<div class="row p-3 pb-0">
 	            			<div class="col-6">
@@ -66,7 +66,7 @@
             				<h2>Sistema de gestión de ventas</h2>
             			</div>
             			<div class="col-12 py-3">
-            				<p>Sistema de gestión de clientes, productos y ventas. Realizado en HTML, CSS, PHP, MVC, Bootstrap, Js, Ajax, jQuery y MySQL de base de datos.</p>
+            				<p>Sistema de gestión de clientes, productos y ventas. Realizado en HTML, CSS, PHP, MVC, Bootstrap, Js, Ajax, jQuery y MySQL de base de datos.</p><br>
             			</div>
             			<div class="row p-3 pb-0">
 	            			<div class="col-6">
@@ -110,7 +110,7 @@
                     <a href="https://www.linkedin.com/in/nelson-daniel-tarche/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a>
                 </div>
                 <div class="col-sm-3 col-12 text-sm-left text-center pb-sm-0 pb-3">
-                        Sponsor <a href="https://depcsuite.com" target="_blank" title="DEPCSUITE">DePC Suite</a>
+                        Sponsor<a href="https://depcsuite.com" target="_blank" title="DEPCSUITE">DePC Suite</a>
                 </div>
                 <div class="col-sm-3 col-12 text-sm-left text-center pb-sm-0 pb-3">
                     <a href="mailto:info@depcsuite.com">info@nelsontarche.com.ar</a>
