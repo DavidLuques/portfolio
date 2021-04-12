@@ -50,7 +50,7 @@
                 <form><textarea name="" id="" rows="10" cols="50px" placeholder="Comentarios..."
                         style="border-radius: 20px" class="form-control shadow" ></textarea></form>
                 <div id="enviar">
-                    <form><input type="submit" class="btn2" ></form>
+                    <form><input type="submit" class="btn3" ></form>
                 </div>
             </div>
         </div>

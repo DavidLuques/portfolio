@@ -248,3 +248,6 @@ background-color:;
 }
 
 .nav-link{margin-left: 20px;}
+.btn3 {border-radius: 20px;
+  border: none;
+text-transform: uppercase;}
