@@ -3,7 +3,7 @@
                 aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon mt-2"><i class="fas fa-bars"></i></span>
             </button>
-            <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+            <div class="collapse navbar-collapse" >
                 <ul class="navbar-nav mr-auto text-center">
                     <li class="nav-item pr-5">
                     <a class="nav-link  <?php echo $pg == "inicio"? "active" : ""; ?>" href="index.php">Inicio</a>
@@ -18,7 +18,7 @@
                             <a class="nav-link <?php echo $pg == "contacto"? "active" : ""; ?>" href="contacto.php">Contacto</a>
                         </li>
                 </ul>
-                <div class="form-inline my-2 my-lg-0">
+                <div class="lolo">
                     <a href="" class="btn btn-rojo">Descargar mi CV <i class="fas fa-download"></i></a>
                 </div>
             </div>

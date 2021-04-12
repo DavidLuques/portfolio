@@ -14,8 +14,7 @@
         background-repeat: no-repeat;
         background-size: 100%;
         }
-    .nav-link{color:black;
-    }
+    
     nav .active{
       border: 1px solid red;
       font-size: px;
@@ -69,22 +68,12 @@
     #enviar form{text-align: right;
     }
     
-    .btn-rojo{
-      background-color: #E20000;
-      color: white;
-      font-size: 15px;
-      border-radius: 20px;
-      padding: 5px 20px;
-      font-weight: 100;
-      float: right;
-    }
-    
     footer, footer a{
       color:white;
       padding: 30px;
       text-decoration: none;
     }
-    #navbarsExampleDefault {padding: 12px 0px 75px 75px;}
+    
     .btn2 {border-radius: 50px;}
     
     
@@ -237,4 +226,27 @@
         padding: 10px;
         border-radius: 100%;
     }
-  
+
+    .nav-link{color:black;
+    }
+
+  .lolo {padding-left: 600px;}
+
+  .navbar-collapse{padding: 40px 0px 75px 75px;
+    position: relative;
+  width: 900px;
+height: 60px;
+background-color:;
+}
+
+.btn-rojo{
+  background-color: #E20000;
+  color: white;
+  font-size: 15px;
+  border-radius: 20px;
+  padding: 5px 20px;
+  font-weight: 100;
+  float:right;
+}
+.container {position: relative;}
+.nav-link{margin-left: 20px;}
