@@ -232,10 +232,9 @@
 
   .lolo {padding-left: 600px;}
 
-  .navbar-collapse{padding: 40px 0px 75px 75px;
-    position: relative;
+  .navbar-collapse{padding: 20px 0px 75px 75px;
   width: 900px;
-height: 60px;
+height: 40px;
 background-color:;
 }
 
@@ -246,7 +245,6 @@ background-color:;
   border-radius: 20px;
   padding: 5px 20px;
   font-weight: 100;
-  float:right;
 }
-.container {position: relative;}
+
 .nav-link{margin-left: 20px;}

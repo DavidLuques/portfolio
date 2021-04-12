@@ -32,18 +32,18 @@
     <main>
         <div class="container">
             <div class="row">
-                <div class="col-12">
+                <div class="col-12 ">
                    <br><br> <h1>Contacto</h1>
                 </div>
             </div>
         
         <div class="row">
-            <div class="col-12 col-sm-6">
+            <div class="col-12 col-sm-6 ">
                 <p>Te invito a que me contactes enviandome un mensaje, o bien por <a
                         href=https://api.whatsapp.com/send?phone=541123906876>whats app</a> </p>
             </div>
-            <div class="col-12 col-sm-6" id="formulario">
-                <form><input type="text" placeholder="Nombre" size=50px style="border-radius: 20px" class="form-control shadow"> </form>
+            <div class="col-12 col-sm-5 " id="formulario">
+                <form><input type="text" placeholder="Nombre" size=30px style="border-radius: 20px" class="form-control shadow"> </form>
                 <form><input type="email" size=50px placeholder="Correo" style="border-radius: 20px" class="form-control shadow"></form>
                 <div class="mb-3">
                             <form><input type="telefono" size=50px placeholder="telefono/whats app" style="border-radius:20px" class="form-control shadow"></form>
