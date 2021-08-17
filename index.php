@@ -28,6 +28,7 @@
     <main>
         <div class="container">
             <div class="row">
+                hola
                 <div class="col-12  text-center div-cohete">
                     <a href="proyectos.php"><img src="images/cohete.svg" class="cohete"></a>
                 </div>
@@ -69,4 +70,4 @@
 </body>
 
 </html>
-
+#pop
