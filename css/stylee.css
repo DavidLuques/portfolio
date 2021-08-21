@@ -1,12 +1,12 @@
 #Contacto {
   background-image: url("../images/fondo-contacto.png");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size:cover;
 }
 #proyectos {
   background-image: url("../images/fondo-proyectos.png");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100%;
 }
 #inicio {
   background-image: url("../images/fondo-contacto.png");
@@ -16,7 +16,7 @@
 #sobre-mi {
   background-image: url("../images/fondo-proyectos.png");
   background-repeat: no-repeat;
-  background-size:cover;
+  background-size:100%;
 }
 
 .active {
@@ -306,3 +306,11 @@ h3 {
 .nav-link {
   margin-left: 20px;
 }p
+
+.img-circle {
+  margin: 1em auto;
+  display: block;
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 50%;
+}

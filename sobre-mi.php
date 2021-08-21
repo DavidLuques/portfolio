@@ -14,7 +14,7 @@
   <link rel="stylesheet" href="css/fontawesome/fontawesome-free-5.15.2-web/css/all.css">
   <link rel="stylesheet" href="css/fontawesome/fontawesome-free-5.15.2-web/css/all.min.css">
   <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&display=swap"
-        rel="stylesheet">
+        rel="stylesheet">        
 
 </head>
 
@@ -333,7 +333,11 @@
                 <div class="col-sm-3 col-12 text-right">
                     <a href="https://api.whatsapp.com/send?phone=541162423341" title="Whatsapp"><i class="fab fa-whatsapp"></i></a>
                 </div>
+                
+
 
             </div>
         </div>
     </footer></body>
+    <script src="css/bootstrap-5.0.2-dist/js/bootstrap.bundle.js.map"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
