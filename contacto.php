@@ -40,7 +40,9 @@
             <div class="row">
                 <div class="col-12 col-sm-6 ">
                     <p>Te invito a que me contactes enviandome un mensaje, o bien por <a href=https://api.whatsapp.com/send?phone=541123906876>whats app</a> </p>
-                    <img src="images/qr.png" alt="qrdavid" title="qrdavid" class="img-fluid">
+                    <div class="nene">
+                        <img src="images/qr .png" alt="qrdavid" title="qrdavid" class="img-fluid">
+                    </div>
                 </div>
 
                 <div class="col-12 col-sm-5 " id="formulario">

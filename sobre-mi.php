@@ -31,7 +31,7 @@
             <div class="row">
                 <div class="col-sm-5 col-12 mt-4">
                     <h1 class="mt-sm-4 pb-sm-4">Sobre mí</h1>
-                    <p class="pb-sm-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam vero eos praesentium consequatur quod magni, eaque asperiores ipsa autem quia quis velit esse, reprehenderit, nesciunt exercitationem corporis sunt aspernatur consectetur?</p>
+                    <p class="pb-sm-5">Soy una persona dinamica, en Constante aprendisaje, Amante de las tecnologias!, Busco aportar mi grano de arena en la sociedad utilizando los conocimientos adquiridos y por adquirir...</p>
                     <a href="/contacto.php" class="btn btn-rojo">Enviar mensaje</a>
 
                 </div>
@@ -113,7 +113,7 @@
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
                             <h3>Apache</h3>
-                            <img class="img-fluid d-block mx-auto" width="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_HTTP_server_logo_%282016%29.svg/300px-Apache_HTTP_server_logo_%282016%29.svg.png">
+                            <img class="img-fluid d-block mx-auto" width="125" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/1200px-Apache_Software_Foundation_Logo_%282016%29.svg.png">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
@@ -137,8 +137,9 @@
                             <div class="col-8 p-5">
                                 <h2>IDIOMAS</h2>
                                 <ul>
-                                    <li>ESPAÑOL - Nativo</li>
+                                   
                                     <li>INGLÉS - Intermediate B2</li>
+                                    <br>
                                 </ul>
                             </div>
                         </div>
@@ -151,8 +152,8 @@
                             <div class="col-8 p-5">
                                 <h2>HOBBIES</h2>
                                 <ul>
-                                    <li>Ciclismo recreativo</li>
-                                    <li>Series, Películas</li>
+                                    <li>Viajes, Artes Marciales</li>
+                                    <li>Libros, Cursos</li>
                                 </ul>
                             </div>
                         </div>
@@ -171,91 +172,20 @@
                 <div class="col-12">
                     <div class="row">
                         <div class="col-2 px-5 py-3 my-auto d-none d-sm-block">
-                            <img src="images/logo-depcsuite.svg" class="img-fluid baw" title="depcsuite">
+                            <img src="images/clases.jpg" class="img-fluid baw" title="depcsuite">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Director</h3>
-                            <h4>DEPCSUITE SA</h4>
-                            <h5>2016 - presente</h5>
-                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repudiandae minus vitae ipsa exercitationem a nemo dicta ullam officiis praesentium pariatur, provident itaque et sed temporibus repellendus odio facere, neque necessitatibus.
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa optio aliquam illo delectus quaerat quisquam culpa, atque, suscipit blanditiis adipisci unde exercitationem! Reiciendis id provident inventore! Ipsa, sit? Porro, assumenda.
+                            <h3>Clases Particulares</h3>
+                            <h4>Matematicas-Fisica</h4>
+                            <h5>2018 - presente</h5>
+                            <p>Clases Particulares nivel secundario- Universitario ingresos , Lo hago con pasion me gusta enseñar y aprender cada dia mas!
                             </p>
                         </div>
                     </div>
                 </div>
-                <div class="col-12">
-                    <div class="row">
-                        <div class="col-2 px-5 py-3 my-auto d-none d-sm-block">
-                            <img src="images/uba.jpg" class="img-fluid baw" title="Universidad de Buenos Aires">
-                        </div>
-                        <div class="col-12 col-sm-10 p-3">
-                            <h3>Desarrollador Senior Full Stack</h3>
-                            <h4>Universidad de Buenos Aires</h4>
-                            <h5>ago 2015 - ene 2020</h5>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda placeat similique aut quis beatae eum? Vitae, alias fugit saepe porro unde sit molestiae rem est architecto molestias necessitatibus non sunt.
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus voluptatibus magnam recusandae voluptatem quasi, eligendi consequuntur, ut saepe, repudiandae commodi numquam necessitatibus a perspiciatis ipsa iusto nam velit atque assumenda.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12">
-                    <div class="row">
-                        <div class="col-2 px-5 py-3 my-auto d-none d-sm-block">
-                            <img src="images/enacom.jpg" class="img-fluid baw" title="enacom">
-                        </div>
-                        <div class="col-12 col-sm-10 p-3">
-                            <h3>Desarrollador Senior Full Stack</h3>
-                            <h4>ENACOM</h4>
-                            <h5>jul 2012 - jun 2018</h5>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis repellendus ab quia saepe alias non voluptatem, explicabo officia sequi excepturi beatae nostrum magni, sint enim nihil possimus earum aliquid reprehenderit!
-                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic consequuntur quidem a reiciendis sunt ullam explicabo, numquam reprehenderit laudantium, libero accusantium blanditiis ex rem voluptates corporis quod? Fuga, quibusdam repellat!
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12">
-                    <div class="row">
-                        <div class="col-2 px-5 py-3 my-auto d-none d-sm-block">
-                            <img src="images/certificado.jpg" class="img-fluid baw" title="certificado">
-                        </div>
-                        <div class="col-12- col-sm-10 p-3">
-                            <h3>Consultor Desarrollador Freelance</h3>
-                            <h4>Certificado Digital SA</h4>
-                            <h5>ago 2014 - dic 2016</h5>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi vel ea consequatur veritatis necessitatibus odit fugit reprehenderit illum suscipit dolores. Modi voluptatem, dolores laudantium suscipit placeat iste perferendis at consequuntur?
+                </section>
 
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12">
-                    <div class="row">
-                        <div class="col-2 px-5 py-3 my-auto d-none d-sm-block">
-                            <img src="images/golshy.jpg" class="img-fluid baw" title="certificado">
-                        </div>
-                        <div class="col-12 col-sm-10 p-3">
-                            <h3>Desarrollador Back-end y Front-end</h3>
-                            <h4>Agencia Golshy</h4>
-                            <h5>jul 2011 - dic 2016</h5>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam fuga est, consectetur eveniet ex ea aliquid autem, rerum dicta praesentium beatae amet ipsum, libero explicabo quidem excepturi? Dolor, officia soluta..</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12">
-                    <div class="row">
-                        <div class="col-2 px-5 py-3 my-auto d-none d-sm-block">
-                            <img src="images/globons.png" class="img-fluid baw" title="globons">
-                        </div>
-                        <div class="col-12 col-sm-10 p-3">
-                            <h3>Desarrollador Back-end y Front-end</h3>
-                            <h4>Globons SRL</h4>
-                            <h5>abr 2010 - ene 2011</h5>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis nihil sed harum, libero beatae repellat culpa sit deleniti modi ipsum necessitatibus aliquam tempora non nulla cumque sapiente assumenda numquam ipsa.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+
         <section id="formacion" class="container">
             <div class="row">
                 <div class="col-12 pt-5 pb-4">
@@ -269,15 +199,16 @@
                             <img src="images/logo-depcsuite.svg" class="img-fluid baw" title="depcsuite">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Director</h3>
-                            <h4>DEPCSUITE SA</h4>
+                            <h3>Universidad Nacional de la Matanza</h3>
+                            <h4>UnLaM</h4>
                             <h5>2016 - presente</h5>
-                            <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium animi maxime quisquam minima illo sint accusamus, pariatur alias nam est, at voluptate hic omnis molestias, repellendus quam possimus necessitatibus harum. ipsum dolor sit amet consectetur adipisicing elit. Maiores aliquid nostrum sapiente accusamus vero quaerat cumque sint recusandae veniam nam quasi beatae aperiam quod culpa, praesentium velit laboriosam alias hic.</p>
+                            <p> Ingenieria en Informatica 32%</p>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
+
         <section id="formacion" class="container">
             <div class="row">
                 <div class="col-12 pt-5 pb-4">
@@ -291,17 +222,37 @@
                             <img src="images/logo-depcsuite.svg" class="img-fluid baw" title="depcsuite">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Director</h3>
-                            <h4>DEPCSUITE SA</h4>
-                            <h5>2016 - presente</h5>
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vitae, ad deserunt! Commodi autem atque in ab enim odit consequuntur, necessitatibus exercitationem quos. Harum et repudiandae molestiae quos voluptate, suscipit tempora.
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore quis beatae error. Error omnis, eius voluptatem pariatur nam perferendis at doloribus dicta enim nesciunt repellat, deleniti ratione, autem obcaecati maxime.
+                            <h3>UnLaM</h3>
+                            <h4>Oratoria</h4>
+                            <h5>2015</h5>
+                            <p>Curso de Oratoria
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row shadow bg-white rounded">
+                <div class="col-12">
+                    <div class="row">
+                        <div class="col-2 px-5 py-3 my-auto d-none d-sm-block">
+                            <img src="images/logo-depcsuite.svg" class="img-fluid baw" title="depcsuite">
+                        </div>
+                        <div class="col-12- col-sm-10 p-3">
+                            <h3>Udemy</h3>
+                            <h4>PHP</h4>
+                            <h5>2020</h5>
+                            <p>PhP
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
+
+    
+       
+      
     </main>
     <footer>
         <div class="container">
