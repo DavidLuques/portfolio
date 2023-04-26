@@ -31,7 +31,7 @@
             <div class="row">
                 <div class="col-sm-5 col-12 mt-4">
                     <h1 class="mt-sm-4 pb-sm-4">Sobre mí</h1>
-                    <p class="pb-sm-5">Soy una persona dinamica, en Constante aprendisaje, Amante de las tecnologias!, Busco aportar mi grano de arena en la sociedad utilizando los conocimientos adquiridos y por adquirir...</p>
+                    <p class="pb-sm-5">I am a dynamic person, in constant learning, and a lover of technologies! I seek to contribute my bit to society by using the knowledge I have acquired and will acquire.</p>
                     <a href="/contacto.php" class="btn btn-rojo">Enviar mensaje</a>
 
                 </div>
@@ -161,6 +161,7 @@
                 </div>
             </div>
         </section>
+
         <section id="experiencia" class="container">
             <div class="row">
                 <div class="col-12 pt-5 pb-4">
