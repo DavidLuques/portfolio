@@ -44,7 +44,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h2 class="my-sm-5 text-white">Stack tecnológico</h2>
+                        <h2 class="my-sm-5 text-white">Stack </h2>
                     </div>
                 </div>
                 <div class="row">
@@ -89,13 +89,13 @@
                     <div class="col-sm-2 col-6">
                         <div class="px-4 py-5 card mx-0">
                             <h3>Laravel</h3>
-                            <img class="img-fluid d-block mx-auto" width="90" src="https://depcsuite.com/wp-content/uploads/2019/08/220px-Laravel.svg_.png">
+                            <img class="img-fluid d-block mx-auto" width="60" src="https://depcsuite.com/wp-content/uploads/2019/08/220px-Laravel.svg_.png">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
                             <h3>MySQL</h3>
-                            <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/1615/mariadb-logo-400x400.png">
+                            <img class="img-fluid d-block mx-auto" width="54" src="https://img.stackshare.io/service/1615/mariadb-logo-400x400.png">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
@@ -122,6 +122,18 @@
                             <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/12698/gUjuxmmd_400x400.jpg">
                         </div>
                     </div>
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0">
+                            <h3>Node.js</h3>
+                            <img class="img-fluid d-block mx-auto" width="60" src="./images/node.png">
+                        </div>
+                    </div>
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0">
+                            <h3>Python</h3>
+                            <img class="img-fluid d-block mx-auto" width="60" src="./images/python.png">
+                        </div>
+                    </div>
                 </div>
 
             </div>
@@ -135,10 +147,10 @@
                                 <i class="fas fa-comment-alt"></i>
                             </div>
                             <div class="col-8 p-5">
-                                <h2>IDIOMAS</h2>
+                                <h2>Languages</h2>
                                 <ul>
                                    
-                                    <li>INGLÉS - Intermediate B2</li>
+                                    <li>English: Intermediate-Advanced B2 Seeking fluency</li>
                                     <br>
                                 </ul>
                             </div>
@@ -152,8 +164,9 @@
                             <div class="col-8 p-5">
                                 <h2>HOBBIES</h2>
                                 <ul>
-                                    <li>Viajes, Artes Marciales</li>
-                                    <li>Libros, Cursos</li>
+                                    <li>I like to travel </li>
+                                    <li>Attend courses </li>
+                                    <li>Read books</li>
                                 </ul>
                             </div>
                         </div>
@@ -165,7 +178,7 @@
         <section id="experiencia" class="container">
             <div class="row">
                 <div class="col-12 pt-5 pb-4">
-                    <h2><i class="fas fa-briefcase"></i> Experiencia</h2>
+                    <h2><i class="fas fa-briefcase"></i> Experience</h2>
                 </div>
             </div>
             <div class="row shadow bg-white rounded">
@@ -249,11 +262,7 @@
                     </div>
                 </div>
             </div>
-        </section>
-
-    
-       
-      
+        </section>   
     </main>
     <footer>
         <div class="container">

@@ -47,7 +47,7 @@
             </div>
         </div>
     </main>
-/
+
     <footer>
         <div class="container">
             <div class="row mt-5">

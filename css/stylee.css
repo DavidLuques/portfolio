@@ -192,6 +192,7 @@ footer a {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b82514', endColorstr='#f02f17', GradientType=1 );
 }
 
+
 #idiomas .card-idioma {
   border-radius: 15px;
 }
@@ -292,7 +293,7 @@ h3 {
 .btn-rojo{
   background-color: #e20000;
   color: white;
-  font-size: 16px;
+  font-size: 18px;
   border-radius: 20px;
   padding: 5px 20px;
   font-weight: 100;
@@ -307,8 +308,10 @@ h3 {
  
 
 .nav-link {
-  margin-left: 20px;
-}p
+  margin-left: 10px;
+  font-size:17px;
+  ;
+}
 
 .img-circle {
   margin: 1em auto;

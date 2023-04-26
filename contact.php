@@ -59,7 +59,7 @@
 
             </div>
     </main>
-    <footer class="foo-a fixed-bottom">
+    <footer > <!--class="foo-a fixed-bottom"-->
         <div class="container">
             <div class="row mt-5">
                 <div class="col-sm-3 col-12 text-sm-left text-center pb-sm-0 pb-3">
