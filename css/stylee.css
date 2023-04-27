@@ -191,7 +191,9 @@ footer a {
   );
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b82514', endColorstr='#f02f17', GradientType=1 );
 }
-
+.bold-text {
+  font-weight: bold;
+}
 
 #idiomas .card-idioma {
   border-radius: 15px;

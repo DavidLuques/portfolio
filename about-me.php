@@ -30,9 +30,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-5 col-12 mt-4">
-                    <h1 class="mt-sm-4 pb-sm-4">Sobre mí</h1>
+                    <h1 class="mt-sm-4 pb-sm-4">About me</h1>
                     <p class="pb-sm-5">I am a dynamic person, in constant learning, and a lover of technologies! I seek to contribute my bit to society by using the knowledge I have acquired and will acquire.</p>
-                    <a href="/contacto.php" class="btn btn-rojo">Enviar mensaje</a>
+                    <a href="/contacto.php" class="btn btn-rojo">Send message</a>
 
                 </div>
                 <div class="col-sm-3 col-12 mt-4 offset-sm-2">
@@ -51,37 +51,37 @@
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
                             <h3>Javascript</h3>
-                            <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/1209/javascript.jpeg">
+                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://img.stackshare.io/service/1209/javascript.jpeg">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
                             <h3>PHP</h3>
-                            <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg">
+                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
                             <h3>HTML5</h3>
-                            <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/2538/kEpgHiC9.png">
+                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://img.stackshare.io/service/2538/kEpgHiC9.png">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
-                            <h3>React.js</h3>
-                            <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/1020/OYIaJ1KK.png">
+                            <h3>Python</h3>
+                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="./images/python.png" style="width: 60px !important; height: 60px !important;">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
                             <h3>jQuery</h3>
-                            <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg">
+                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
                             <h3>Bootstrap</h3>
-                            <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/1101/C9QJ7V3X.png">
+                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://img.stackshare.io/service/1101/C9QJ7V3X.png">
                         </div>
                     </div>
                 </div>
@@ -89,31 +89,31 @@
                     <div class="col-sm-2 col-6">
                         <div class="px-4 py-5 card mx-0">
                             <h3>Laravel</h3>
-                            <img class="img-fluid d-block mx-auto" width="60" src="https://depcsuite.com/wp-content/uploads/2019/08/220px-Laravel.svg_.png">
+                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://depcsuite.com/wp-content/uploads/2019/08/220px-Laravel.svg_.png" style="width: 60px !important; height: 60px !important;">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
                             <h3>MySQL</h3>
-                            <img class="img-fluid d-block mx-auto" width="54" src="https://img.stackshare.io/service/1615/mariadb-logo-400x400.png">
+                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://img.stackshare.io/service/1615/mariadb-logo-400x400.png" style="width: 60px !important; height: 60px !important;">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
                             <h3>CSS</h3>
-                            <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/6727/css.png">
+                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://img.stackshare.io/service/6727/css.png">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
                             <h3>Git</h3>
-                            <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/1046/git.png">
+                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://img.stackshare.io/service/1046/git.png">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
                             <h3>Apache</h3>
-                            <img class="img-fluid d-block mx-auto" width="125" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/1200px-Apache_Software_Foundation_Logo_%282016%29.svg.png">
+                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/1200px-Apache_Software_Foundation_Logo_%282016%29.svg.png" style="width: 60px !important; height: 60px !important;">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
@@ -122,6 +122,8 @@
                             <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/12698/gUjuxmmd_400x400.jpg">
                         </div>
                     </div>
+                </div>
+                <div class="row mt-4">
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
                             <h3>Node.js</h3>
@@ -130,11 +132,12 @@
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
-                            <h3>Python</h3>
-                            <img class="img-fluid d-block mx-auto" width="60" src="./images/python.png">
+                            <h3>Postman</h3>
+                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="./images/postman-icon.png" style="width: 60px !important; height: 60px !important;">
                         </div>
                     </div>
                 </div>
+            </div>
 
             </div>
         </section>
@@ -149,7 +152,7 @@
                             <div class="col-8 p-5">
                                 <h2>Languages</h2>
                                 <ul>
-                                   
+
                                     <li>English: Intermediate-Advanced B2 Seeking fluency</li>
                                     <br>
                                 </ul>
@@ -162,7 +165,7 @@
                                 <i class="fas fa-star"></i>
                             </div>
                             <div class="col-8 p-5">
-                                <h2>HOBBIES</h2>
+                                <h2>Hobbies</h2>
                                 <ul>
                                     <li>I like to travel </li>
                                     <li>Attend courses </li>
@@ -184,39 +187,69 @@
             <div class="row shadow bg-white rounded">
 
                 <div class="col-12">
+
+                    <div class="row">
+                        <div class="col-2 px-5 py-3 my-auto d-none d-sm-block">
+                            <img src="images/globons.png" class="img-fluid baw" title="depcsuite">
+                        </div>
+                        <div class="col-10- col-sm-10 p-3">
+                            <h3>Globons| The digital innovation company</h3>
+                            <h4>Developer</h4>
+                            <h5>2021-2023</h5>
+                            <p>As a node.js developer I utilized libraries sucha as axios,dotenv and csv-parser to cre3ate efficient and effective application. I collaborated closely with my team to test and debug code, usting tools as Postman and Jira to identify and report Isuue. Additionally I've experience with HTML, CSS and Bootstrap, as well as documenting software in manuals.
+                                In terms of database managment I have worked with SQL Server and Firebase creating views and modifying data as needed. I also have expirience with content mangment systems such as WordPress, and have completed various PHP tasks.
+                                I'm proud to have been part of such a dynamic and innovative team, and I'm happy to provide a reference from my previous empleter at
+                                <span class="bold-text">People@globons.com</span>
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-2 px-5 py-3 my-auto d-none d-sm-block">
+                            <img src="images/computer-repair.png" class="img-fluid baw" title="depcsuite">
+                        </div>
+                        <div class="col-10- col-sm-10 p-3">
+                            <h3>Computer repair business</h3>
+                            <h4>Entrepenuership</h4>
+                            <h5>2019 - 2021</h5>
+                            <p>"Computer technician repairs"
+                            </p>
+                        </div>
+                    </div>
+
                     <div class="row">
                         <div class="col-2 px-5 py-3 my-auto d-none d-sm-block">
                             <img src="images/clases.jpg" class="img-fluid baw" title="depcsuite">
                         </div>
-                        <div class="col-12- col-sm-10 p-3">
-                            <h3>Clases Particulares</h3>
-                            <h4>Matematicas-Fisica</h4>
-                            <h5>2018 - presente</h5>
-                            <p>Clases Particulares nivel secundario- Universitario ingresos , Lo hago con pasion me gusta enseñar y aprender cada dia mas!
+                        <div class="col-10- col-sm-10 p-3">
+                            <h3>Private math lessons</h3>
+                            <h4>Math-Physics</h4>
+                            <h5>2018 - 2020</h5>
+                            <p>"Private lessons for High schools and university level, including exam preparation. I teach with passion and enjoy both teaching and learning every day!"
                             </p>
                         </div>
                     </div>
                 </div>
-                </section>
+        </section>
 
 
         <section id="formacion" class="container">
             <div class="row">
                 <div class="col-12 pt-5 pb-4">
-                    <h2><i class="fas fa-graduation-cap"></i> Formación acádémica</h2>
+                    <h2><i class="fas fa-graduation-cap"></i>Academic education</h2>
                 </div>
             </div>
             <div class="row shadow bg-white rounded">
                 <div class="col-12">
                     <div class="row">
                         <div class="col-2 px-5 py-3 my-auto d-none d-sm-block">
-                            <img src="images/logo-depcsuite.svg" class="img-fluid baw" title="depcsuite">
+                            <img src="images/unlam.png" class="img-fluid baw" title="depcsuite">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Universidad Nacional de la Matanza</h3>
+                            <h3>National university of la Matanza</h3>
                             <h4>UnLaM</h4>
-                            <h5>2016 - presente</h5>
-                            <p> Ingenieria en Informatica 32%</p>
+                            <h5>2015 - present</h5>
+                            <p> Computer sciene engineering 30 subjects</p>
                         </div>
                     </div>
                 </div>
@@ -226,21 +259,25 @@
         <section id="formacion" class="container">
             <div class="row">
                 <div class="col-12 pt-5 pb-4">
-                    <h2><i class="fas fa-graduation-cap"></i> Cursos de desarrollo profesional</h2>
+                    <h2><i class="fas fa-graduation-cap"></i> Courses</h2>
                 </div>
             </div>
+
             <div class="row shadow bg-white rounded">
                 <div class="col-12">
                     <div class="row">
                         <div class="col-2 px-5 py-3 my-auto d-none d-sm-block">
-                            <img src="images/logo-depcsuite.svg" class="img-fluid baw" title="depcsuite">
+                            <img href="https://community.open-bootcamp.com/user/panchufleto/certificaciones/6e60fa0b-79a9-4d33-9ed7-c938c0b7be33" src="images/openboot.jpg" class="img-fluid baw" title="depcsuite">
+                        </div>
+                        <div class="col-6- col-sm-10 p-3">
+                            <h3>Open Bootcamp</h3>
+                            <h4>Java Basico</h4>
+                            <h5>2022</h5>
+                            <p>
+                            </p>
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>UnLaM</h3>
-                            <h4>Oratoria</h4>
-                            <h5>2015</h5>
-                            <p>Curso de Oratoria
-                            </p>
+                            <a href="https://community.open-bootcamp.com/user/panchufleto/certificaciones/6e60fa0b-79a9-4d33-9ed7-c938c0b7be33" class="btn btn-rojo" target="_blank">To view certificate</a>
                         </div>
                     </div>
                 </div>
@@ -250,19 +287,40 @@
                 <div class="col-12">
                     <div class="row">
                         <div class="col-2 px-5 py-3 my-auto d-none d-sm-block">
-                            <img src="images/logo-depcsuite.svg" class="img-fluid baw" title="depcsuite">
+                            <img href="https://community.open-bootcamp.com/user/panchufleto/certificaciones/6e60fa0b-79a9-4d33-9ed7-c938c0b7be33" src="images/openboot.jpg" class="img-fluid baw" title="depcsuite">
+                        </div>
+                        <div class="col-6- col-sm-10 p-3">
+                            <h3>Open Bootcamp</h3>
+                            <h4>Python</h4>
+                            <h5>2022</h5>
+                            <p>
+                            </p>
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Udemy</h3>
-                            <h4>PHP</h4>
-                            <h5>2020</h5>
-                            <p>PhP
+                            <a href="https://community.open-bootcamp.com/user/panchufleto/certificaciones/9d64ea83-d94b-4845-b2f8-dd880c8ef2fd" class="btn btn-rojo" target="_blank">To view certificate</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row shadow bg-white rounded">
+                <div class="col-12">
+                    <div class="row">
+                        <div class="col-2 px-5 py-3 my-auto d-none d-sm-block">
+                            <img src="images/unlam.png" class="img-fluid baw" title="depcsuite">
+                        </div>
+                        <div class="col-12- col-sm-10 p-3">
+                            <h3>UnLaM</h3>
+                            <h4>Public speaking</h4>
+                            <h5>2015</h5>
+                            <p>Public speaking course
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>   
+
+        </section>
     </main>
     <footer>
         <div class="container">
