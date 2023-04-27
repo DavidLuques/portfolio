@@ -22,7 +22,7 @@
         <div class="container">
 
             <?php
-            $pg = "contacto";
+            $pg = "contact";
             include_once("menu.php"); ?>
 
         </div>
@@ -33,7 +33,7 @@
             <div class="row">
                 <div class="col-12 ">
                     <br><br>
-                    <h1>Contacto</h1>
+                    <h1>Contact</h1>
                 </div>
             </div>
 
@@ -46,11 +46,11 @@
                 </div>
 
                 <div class="col-12 col-sm-5 " id="formulario">
-                    <form><input type="text" placeholder="Nombre" size=30px style="border-radius: 20px" class="form-control shadow"> </form>
-                    <form><input type="email" size=50px placeholder="Correo" style="border-radius: 20px" class="form-control shadow"></form>
+                    <form><input type="text" placeholder="Name" size=30px style="border-radius: 20px" class="form-control shadow"> </form>
+                    <form><input type="email" size=50px placeholder="Email" style="border-radius: 20px" class="form-control shadow"></form>
                     <div class="mb-3">
-                        <form><input type="telefono" size=50px placeholder="telefono/whats app" style="border-radius:20px" class="form-control shadow"></form>
-                        <form><textarea name="" id="" rows="10" cols="50px" placeholder="Comentarios..." style="border-radius: 20px" class="form-control shadow"></textarea></form>
+                        <form><input type="telefono" size=50px placeholder="Phone/whats app" style="border-radius:20px" class="form-control shadow"></form>
+                        <form><textarea name="" id="" rows="10" cols="50px" placeholder="Coments..." style="border-radius: 20px" class="form-control shadow"></textarea></form>
                         <div id="enviar">
                             <form><input type="submit" class="btn3"></form>
                         </div>

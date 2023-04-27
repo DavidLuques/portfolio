@@ -42,7 +42,7 @@
             </div>
             <div class="row">
                 <div class="col-12 text-center p-5" >
-                    <a href="proyectos.php" class="btn shadow btn3">Conoce mis proyectos</a>
+                    <a href="contact.php" class="btn shadow btn3">Let's get in touch!</a>
                 </div>
             </div>
         </div>
