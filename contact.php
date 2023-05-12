@@ -53,11 +53,11 @@
                         <input type="tel" name="phone" placeholder="Phone/whats app" class="form-control shadow" style="border-radius: 20px">
                         <textarea name="comments" placeholder="Comments..." rows="10" cols="50" class="form-control shadow" style="border-radius: 20px"></textarea>
                         <div id="enviar">
-                            <input type="submit" name="submit" class="btn3">
+                            <button type="submit" name="submit" class="btn btn-primary">Send</button>
                         </div>
                     </form>
                 </div>
-                <?php include("send.php");?>
+           
 
             </div>
     </main>
