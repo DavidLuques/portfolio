@@ -48,24 +48,28 @@
                     </div>
                 </div>
                 <div class="row">
+
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
                             <h3>Javascript</h3>
-                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://img.stackshare.io/service/1209/javascript.jpeg">
+                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://img.stackshare.io/service/1209/javascript.jpeg"  style="width: 60px !important; height: 60px !important;">
                         </div>
                     </div>
+
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
                             <h3>PHP</h3>
-                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg">
+                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg"  style="width: 60px !important; height: 60px !important;">
                         </div>
                     </div>
+
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
                             <h3>HTML5</h3>
-                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://img.stackshare.io/service/2538/kEpgHiC9.png">
+                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://img.stackshare.io/service/2538/kEpgHiC9.png"  style="width: 60px !important; height: 60px !important;">
                         </div>
                     </div>
+                    
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
                             <h3>Python</h3>
@@ -75,13 +79,13 @@
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
                             <h3>jQuery</h3>
-                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg">
+                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg"  style="width: 60px !important; height: 60px !important;">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
                             <h3>Bootstrap</h3>
-                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://img.stackshare.io/service/1101/C9QJ7V3X.png">
+                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://img.stackshare.io/service/1101/C9QJ7V3X.png"  style="width: 60px !important; height: 60px !important;">
                         </div>
                     </div>
                 </div>
@@ -101,13 +105,13 @@
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
                             <h3>CSS</h3>
-                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://img.stackshare.io/service/6727/css.png">
+                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://img.stackshare.io/service/6727/css.png"  style="width: 60px !important; height: 60px !important;">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
                             <h3>Git</h3>
-                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://img.stackshare.io/service/1046/git.png">
+                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://img.stackshare.io/service/1046/git.png"  style="width: 60px !important; height: 60px !important;">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
@@ -119,7 +123,7 @@
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
                             <h3>Mercadopago</h3>
-                            <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/12698/gUjuxmmd_400x400.jpg">
+                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="https://img.stackshare.io/service/12698/gUjuxmmd_400x400.jpg"  style="width: 60px !important; height: 60px !important;">
                         </div>
                     </div>
                 </div>
@@ -127,7 +131,7 @@
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0">
                             <h3>Node.js</h3>
-                            <img class="img-fluid d-block mx-auto" width="60" src="./images/node.png">
+                            <img class="img-fluid d-block mx-auto" width="60px" height="60px" src="./images/node.png"  style="width: 60px !important; height: 60px !important;">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
