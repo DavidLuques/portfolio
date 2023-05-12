@@ -45,17 +45,19 @@
                     </div>
                 </div>
 
+            
                 <div class="col-12 col-sm-5 " id="formulario">
-                    <form><input type="text" placeholder="Name" size=30px style="border-radius: 20px" class="form-control shadow"> </form>
-                    <form><input type="email" size=50px placeholder="Email" style="border-radius: 20px" class="form-control shadow"></form>
-                    <div class="mb-3">
-                        <form><input type="telefono" size=50px placeholder="Phone/whats app" style="border-radius:20px" class="form-control shadow"></form>
-                        <form><textarea name="" id="" rows="10" cols="50px" placeholder="Coments..." style="border-radius: 20px" class="form-control shadow"></textarea></form>
+                    <form action="send.php" method="POST">
+                        <input type="text" name="name" placeholder="Name" class="form-control shadow" style="border-radius: 20px">
+                        <input type="email" name="email" placeholder="Email" class="form-control shadow" style="border-radius: 20px">
+                        <input type="tel" name="phone" placeholder="Phone/whats app" class="form-control shadow" style="border-radius: 20px">
+                        <textarea name="comments" placeholder="Comments..." rows="10" cols="50" class="form-control shadow" style="border-radius: 20px"></textarea>
                         <div id="enviar">
-                            <form><input type="submit" class="btn3"></form>
+                            <input type="submit" name="submit" class="btn3">
                         </div>
-                    </div>
+                    </form>
                 </div>
+                <?php include("send.php");?>
 
             </div>
     </main>
